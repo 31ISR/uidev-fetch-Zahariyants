@@ -1,6 +1,4 @@
-const baseUrl = "
-https://kitek-pg.ru/json/anime
-"
+const baseUrl = "https://kitek-pg.ru/json/anime"
 
 const STATUS_CLASS = {
   watching: "st1",
